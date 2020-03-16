@@ -12,6 +12,7 @@ public class MallUserApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MallUserApplication.class, args);
+        System.out.println("MallUserApplication  done!!!!!!!!!!!");
     }
 
 }

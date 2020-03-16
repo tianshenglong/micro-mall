@@ -7,6 +7,7 @@
 4 实时同步mysql数据到Elasticsearch
 5 线上问题排查神器Arthas
 6 MyBatis Dynamic SQL 动态sql
+7 使用log4j2 记录日志，SLF4J作为日志门面
 
 【双11狂欢的背后】微服务注册中心如何承载大型系统的千万级访问？
 https://blog.csdn.net/forezp/article/details/83999947
