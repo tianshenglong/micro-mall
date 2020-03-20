@@ -18,14 +18,14 @@ logging:
         user:
           dao: debug
 server:
-  port: 8201
+  port: 8202
   undertow:
     accesslog:
       enabled: true
       dir: logs/server
 spring:
   application:
-    name: mall-user
+    name: mall-goods
   profiles:
     active: dev
   jackson:
